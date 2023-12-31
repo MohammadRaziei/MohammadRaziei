@@ -23,7 +23,7 @@
 
 ## GithubUnwrapped
 
-![video link](https://mohammadraziei.github.io/static/assets/downloaded/unwrapped-MohammadRaziei.mp4)
+<video src="https://mohammadraziei.github.io/static/assets/downloaded/unwrapped-MohammadRaziei.mp4" width="100%"></video>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadraziei&icon=0&color=0)](https://visitcount.itsvg.in)
