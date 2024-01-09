@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Data Scientist </h3> -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=A+Researcher;A+Data+Scientist;C%2B%2B+and+Python+developer;Full+Stack;I+Love+Math+and+Physics;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=3000&pause=500&color=cyan&center=true&vCenter=true&random=false&width=800&height=80&lines=A+Researcher;A+Data+Scientist;C%2B%2B+and+Python+developer;Full+Stack;I+Love+Math+and+Physics;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
