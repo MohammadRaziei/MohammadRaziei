@@ -13,7 +13,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohammadRaziei_) 
 [![GMail](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=Gmail&logoColor=white)](mailto:mohammadraziei1375@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/mohammadraziei) 
-[![Website](https://img.shields.io/badge/Website-%230088CC.svg?logo=Website&logoColor=white)](https://mohammadraziei.github.io/) 
+[![Website](https://img.shields.io/badge/Website-%23FFD700.svg?logo=Google-Chrome&logoColor=white)](https://mohammadraziei.github.io/)
 
 
 # 💻Tech Stack
