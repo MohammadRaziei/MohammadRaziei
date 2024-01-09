@@ -17,9 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadraziei&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadraziei&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## GithubUnwrapped
 
@@ -28,6 +25,15 @@
 
 <!-- (https://onelineplayer.com/player.html?autoplay=false&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fmohammadraziei.github.io%2Fstatic%2Fassets%2Fdownloaded%2Funwrapped-MohammadRaziei.mp4&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true)
 -->
+
+# :chart_with_downwards_trend: GitHub Activities
+![](https://github-readme-activity-graph.vercel.app/graph?username=MohammadRaziei&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE)
+
+
+
+### ✍️Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadraziei&icon=0&color=0)](https://visitcount.itsvg.in)
