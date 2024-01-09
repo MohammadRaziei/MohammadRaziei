@@ -47,6 +47,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadraziei&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MohammadRaziei&label=Profile%20views&color=70a5fd&style=for-the-badge)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mohammadraziei)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- https://github-profile-maker.vercel.app/? -->
