@@ -39,7 +39,7 @@
 <!-- [![](https://holopin.me/mohammadraziei)](https://holopin.io/@mohammadraziei) -->
 
 
-## GithubUnwrapped of 2023
+## 🚀GithubUnwrapped of 2023
 
 <!--[<img width="400" alt="readme" src="https://github.com/remotion-dev/github-unwrapped-2023/assets/73991323/0a907f4f-a591-4d98-8b38-c90581ccfb33">]-->
 [<img width="250" src="https://githubunwrapped.com/ig/mohammadraziei.jpg">](https://githubunwrapped.com/mohammadraziei)
@@ -47,7 +47,7 @@
 <!-- (https://onelineplayer.com/player.html?autoplay=false&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fmohammadraziei.github.io%2Fstatic%2Fassets%2Fdownloaded%2Funwrapped-MohammadRaziei.mp4&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true)
 -->
 
-# :chart_with_downwards_trend: GitHub Activities
+# 📈GitHub Activities
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MohammadRaziei&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE)
 
 
