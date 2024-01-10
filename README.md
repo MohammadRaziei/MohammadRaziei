@@ -27,7 +27,7 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mohammadraziei&theme=radical)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![](https://github-readme-stats.vercel.app/api?username=mohammadraziei&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mohammadraziei&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadraziei&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadraziei&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadraziei&combine_all_yearly_contributions=true&hide=B,B+&theme=radical)
