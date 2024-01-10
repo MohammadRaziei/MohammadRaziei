@@ -51,7 +51,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MohammadRaziei&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE)
 
 
-<img src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/snake.svg" alt="Snake animation" />
 
 
 
