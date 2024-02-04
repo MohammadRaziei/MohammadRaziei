@@ -57,6 +57,9 @@
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🎓Riddle of Day
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
 <!-- https://github-readme-stats.vercel.app/api/pin/?username=mohammadraziei&repo=liburlparser&theme=buefy -->
 
 
