@@ -50,7 +50,12 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MohammadRaziei&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE)
 
 
-<img width="100%" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/snake.svg" alt="Snake animation" />
+<!--<img width="100%" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/snake.svg" alt="Snake animation" />-->
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
+</picture>
 
 
 
