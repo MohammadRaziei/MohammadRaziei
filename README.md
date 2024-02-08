@@ -52,9 +52,9 @@
 
 <!--<img width="100%" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/snake.svg" alt="Snake animation" />-->
 <picture width="100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
+  <source  width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake-dark.svg" />
+  <source  width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
+  <img  width="100%" alt="github-snake" src="https://raw.githubusercontent.com/mohammadraziei/mohammadraziei/output/github-snake.svg" />
 </picture>
 
 
