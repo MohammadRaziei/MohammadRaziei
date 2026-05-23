@@ -33,7 +33,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadraziei&combine_all_yearly_contributions=true&hide=B,B+&theme=radical)
 
 
-![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=mohammadraziei&order_by=stars&hide=B&title_color=a180f9&text_color=dee5ed&icon_color=a180f9&bg_color=222222&border_color=000000&hide_contributor_rank=false&combine_all_yearly_contributions=true)
+![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=mohammadraziei&order_by=stars&hide=B&title_color=a180f9&text_color=dee5ed&icon_color=a180f9&bg_color=222222&border_color=000000&hide_contributor_rank=true&combine_all_yearly_contributions=true)
 
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=MohammadRaziei) -->
 
